@@ -1,4 +1,4 @@
-# Starbucks_Dashboard
+# Starbucks Sales Dashboard Analysis
 
 ### **1. Data Extraction**
 The raw data was directly used without performing extensive cleaning. The focus was on transforming the available columns to create meaningful insights.
